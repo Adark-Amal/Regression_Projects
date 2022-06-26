@@ -156,5 +156,5 @@ Based on the analysis I performed, below are the key insights I generated from t
 <br>
 
 ## Certificate<a name="cf"></a> 
-[Earned Certificate](https://insidesherpa.s3.amazonaws.com/completion-certificates/ANZ/ZLJCsrpkHo9pZBJNY_ANZ_tCfFoXSNJ4aLnBQye_completion_certificate.pdf)
+[Completion Certificate](https://insidesherpa.s3.amazonaws.com/completion-certificates/ANZ/ZLJCsrpkHo9pZBJNY_ANZ_tCfFoXSNJ4aLnBQye_completion_certificate.pdf)
 
